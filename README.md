@@ -1,4 +1,4 @@
-# Titanic Survival Prediction – Data Analysis & Machine Learning Report
+# Titanic Survival Prediction 
 
 ## Project Overview
 
